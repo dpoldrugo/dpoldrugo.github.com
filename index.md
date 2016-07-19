@@ -12,6 +12,5 @@ Currently working on real-time data analytics with Kafka, Kafka Streams, Redis a
 Cinephile. Windsurfer.
 
 On February 20 I gave a talk on Javantura about "Real-time BigData ingestion and querying of aggregated data".
-
-More: https://javantura.com/sessions/#rtbigdata
+For more info check: [https://javantura.com/sessions/#rtbigdata]()
 
