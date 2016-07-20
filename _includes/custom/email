@@ -1,0 +1,3 @@
+{% if site.author.email.visible %}
+- <span class="fn email">{{ site.author.email }}</span>
+{% endif %}
