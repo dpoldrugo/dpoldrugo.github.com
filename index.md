@@ -9,7 +9,7 @@ Software engineer with interest in backend development, high-availability, distr
 
 Currently working on real-time data analytics with Kafka, Kafka Streams, Redis and druid.io.
 
-Cinephile. Windsurfer.
+Cinephile. Windsurfer...
 
 On February 20, I gave a talk on Javantura about "Real-time BigData ingestion and querying of aggregated data".
 For more info check: [https://javantura.com/sessions/#rtbigdata](https://javantura.com/sessions/#rtbigdata)
