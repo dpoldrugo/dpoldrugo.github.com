@@ -1,5 +1,5 @@
 {% include JB/is_production %}
 
-{% if site.author.email != "" %}
+{% if site.author.email != null %}
   - <span class="fn email">{{ site.author.email }}</span>
 {% endif %}
