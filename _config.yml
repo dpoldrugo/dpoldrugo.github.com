@@ -12,7 +12,8 @@ title : Davor Poldrugo
 tagline: software engineer
 author :
   name : Davor Poldrugo
-  email :
+  email : dpoldrugo@gmail.com
+    visible: false
   github : dpoldrugo
   twitter : davorp
   feedburner : DavorPoldrugo
