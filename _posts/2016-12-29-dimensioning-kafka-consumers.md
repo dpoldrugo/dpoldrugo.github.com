@@ -16,6 +16,8 @@ What are the factors that you have to consider when dimensioning/sizing your Kaf
  * retention of your data in the Kafka topic (duration ; minutes) - here I will use retention period - the amount of time (duration) Kafka will retain the data before dropping it.
  * amount of downtime you plan to have (duration ; minutes) - this can be consumer downtime, but can also be producer downtime. When the producer is down, and this producer is able to re-read data that didn't produce, then this will cause a spike, and then the consumer must be able to process messages with greater speed.
 
-I have come up with a formula that takes into account these factors and calculates the minimum Kafka consumer speed that you need to have in order to not lose data.
+I have come up with a formula that takes into account these factors and calculates the minimum Kafka consumer speed that you need to have in order to not lose data. Here it goes.
+
+![kafka-consumer-dimensioning-formula](/images/kafka-consumer-dimensioning-formula.png)
 
 
