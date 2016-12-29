@@ -18,6 +18,6 @@ What are the factors that you have to consider when dimensioning/sizing your Kaf
 
 I have come up with a formula that takes into account these factors and calculates the minimum Kafka consumer speed that you need to have in order to not lose data. Here it goes.
 
-![kafka-consumer-dimensioning-formula](/images/kafka-consumer-dimensioning-formula.png)
+![kafka-consumer-dimensioning-formula](/assets/images/kafka-consumer-dimensioning-formula.png)
 
 
