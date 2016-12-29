@@ -20,6 +20,8 @@ I have come up with a formula that takes into account these factors and calculat
 
 ![kafka-consumer-dimensioning-formula](/assets/images/kafka-consumer-dimensioning-formula.png)
 
+The details how I have come up with this formula, I will write in another post, I hope ;)
+
 An interactive version of the given formula, where you can change the three factors/variables and dimension your Kafka consumers:
 <iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/VwAswM8G/width/800/height/400/border/888888" width="800px" height="400px" style="border:0px;"> </iframe>
 
