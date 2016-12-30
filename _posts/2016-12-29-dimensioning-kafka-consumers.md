@@ -25,7 +25,9 @@ The details of how I have come up with this formula, I will write in another pos
 An interactive version of the given formula, where you can change the three factors/variables and dimension your Kafka consumers:
 <iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/VwAswM8G/width/800/height/400/border/888888" width="800px" height="400px" style="border:0px;"> </iframe>
 
-If you can guarantee no downtime, then you don't need this formula, then the consumer speed will have to be the same as the producer speed. You can actually enter 0 for <code>DOWNTIME<sub>Min</sub></code> in the interactive formula, and you'll see that: <code>Consumer<sub>MinSpeed</sub> = Producer<sub>Speed</sub></code>.
+If you can guarantee no downtime, then you don't need this formula, then the consumer speed will have to be the same as the producer speed. You can actually enter 0 for <code>DOWNTIME<sub>Min</sub></code> in the interactive formula, and you'll see that:
+
+<code>Consumer<sub>MinSpeed</sub> = Producer<sub>Speed</sub></code>.
 
 But I regularly have this situation - an app that is reading data from another datacenter (DC) - because of DC link failure or congestion - stops reading data, and thus stops producing data to Kafka. When the link is back online, this app will start producing messages, but now the number of messages per second is not the regular speed, it's 20x of the regular speed for example. And if your consumer on the other side is only able to consume data at regular speed, then you have somehow scale-up your consumer. How to scale-up is up to you, but here are some options:
 
