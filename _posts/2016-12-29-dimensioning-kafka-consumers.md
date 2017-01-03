@@ -22,6 +22,8 @@ I have come up with a formula that takes into account these factors and calculat
 
 The details of how I have come up with this formula, I will write in another post, I hope ;)
 
+The general idea of the formula is - if you increase downtime, the speed of the consumer(s) will have to be greater than the speed of the producers. To avoid big imbalance of producer/consumer speeds, you can add more retention to the data, and achieve consumer speeds that don't need to be several times bigger than producer speeds.
+
 Here is an interactive version of the given formula, where you can change the three factors/variables and dimension your Kafka consumers. Note that in the interactive version I use minutes instead of seconds for <code>T<sub>Retention</sub></code> and <code>T<sub>Downtime</sub></code>.
 <iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/VwAswM8G/width/800/height/400/border/888888" width="800px" height="400px" style="border:0px;"> </iframe>
 
