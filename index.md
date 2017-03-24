@@ -14,5 +14,5 @@ Cinephile. Windsurfer.
 Latest post: [Dimensioning Kafka consumers](https://dpoldrugo.github.io/2016/12/29/dimensioning-kafka-consumers)
 
 On February 20, I gave a talk on Javantura about "Real-time BigData ingestion and querying of aggregated data".
-For more info check: [https://javantura.com/sessions/#rtbigdata](https://javantura.com/sessions/#rtbigdata)
+For more info check: [speakerdeck slides](https://speakerdeck.com/dpoldrugo/real-time-big-data-ingestion-and-querying-of-aggregated-data-at-javantura-2016-druid-apache-kafka)
 
