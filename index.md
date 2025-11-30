@@ -5,14 +5,11 @@ tagline: about me
 ---
 {% include JB/setup %}
 
-Software engineer with interest in backend development, high-availability, distributed systems, disruptive business.
+Humble engineer with interest in disruptive business, software design, big data, cinema, art
 
-Currently working on real-time data analytics with Kafka, Kafka Streams, Redis and druid.io.
+Currently co-founder of an IT startup.
 
-Cinephile. Windsurfer.
+Enjoys: Filmmaking. Art. Volleyball. Motorcycle traveler.
 
 Latest post: [Dimensioning Kafka consumers](https://dpoldrugo.github.io/2016/12/29/dimensioning-kafka-consumers)
-
-On February 20, I gave a talk on Javantura about "Real-time BigData ingestion and querying of aggregated data".
-For more info check: [speakerdeck slides](https://speakerdeck.com/dpoldrugo/real-time-big-data-ingestion-and-querying-of-aggregated-data-at-javantura-2016-druid-apache-kafka)
 

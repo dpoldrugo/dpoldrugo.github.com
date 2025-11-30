@@ -9,10 +9,11 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Davor Poldrugo 
-tagline: software engineer
+tagline: humble engineer
 author :
   name : Davor Poldrugo
   email : dpoldrugo@gmail.com
+  linkedin : "dpoldrugo"
   github : dpoldrugo
   twitter : davorp
   feedburner : DavorPoldrugo
