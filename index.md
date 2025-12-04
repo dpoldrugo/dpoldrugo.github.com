@@ -9,7 +9,7 @@ Humble engineer with interest in disruptive business, software design, big data,
 
 Currently co-founder of an IT startup.
 
-Enjoys: Filmmaking. Art. Volleyball. Motorcycle traveler.
+Enjoys: Filmmaking. Art. Sailing. Volleyball. Motorcycle traveling.
 
 Latest post: [Dimensioning Kafka consumers](https://dpoldrugo.github.io/2016/12/29/dimensioning-kafka-consumers)
 
