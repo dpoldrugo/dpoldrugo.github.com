@@ -7,6 +7,10 @@ tags: [poezija]
 ---
 {% include JB/setup %}
 
+<video controls style="width: 100%;">
+  <source src="/assets/videos/bjeloruska-noc.mp4" type="video/mp4">
+</video>
+
 Noć.  
 Kompas pokazuje čisti sjever.  
 Cesta.  
