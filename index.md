@@ -11,5 +11,5 @@ Currently co-founder of an IT startup.
 
 Enjoys: Filmmaking. Art. Sailing. Volleyball. Motorcycle traveling.
 
-Latest post: [Dimensioning Kafka consumers](https://dpoldrugo.github.io/2016/12/29/dimensioning-kafka-consumers)
+Blog posts: [here](/posts.html)
 
