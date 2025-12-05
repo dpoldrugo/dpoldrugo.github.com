@@ -8,6 +8,10 @@ group: navigation
 
 <h2>All Pages</h2>
 <ul>
-{% assign pages_list = site.pages %}
-{% include JB/pages_list %}
+{% assign all_pages = site.pages | sort: "title" %}
+{% for page in all_pages %}
+  {% if page.title and page.title != "HEAD" and page.title != "Theme info" %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+{% endfor %}
 </ul>
