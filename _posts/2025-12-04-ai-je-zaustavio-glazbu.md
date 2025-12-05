@@ -3,7 +3,7 @@ layout: post
 title: "AI je zaustavio glazbu / promjena obrazovne paradigme"
 description: ""
 category: 
-tags: [ai, tehnologija]
+tags: [AI, tehnologija]
 ---
 {% include JB/setup %}
 Reakcija na [ovaj post](https://www.linkedin.com/feed/update/urn:li:activity:7402013515672190976/).
