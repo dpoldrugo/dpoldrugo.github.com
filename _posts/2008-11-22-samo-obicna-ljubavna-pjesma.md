@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "Samo obicna ljubavna pjesma?!"
+title: "Samo obična ljubavna pjesma?!"
 description: ""
 category: 
 tags: [poetry, review, essay]
 ---
 {% include JB/setup %}
 
-![House of Cards - kula od karata](images/house-of-cards.png)
-*(slika preuzeta s izvorne stranice posta, 2008.)*
-
-# Samo obična ljubavna pjesma?!
+![House of Cards - kula od karata](/assets/images/house-of-cards.png)
 
 Slušajući **House Of Cards** od Radioheada, stavljanje te pjesme u ladicu „ljubavne pjesme“ s dodatkom „tužne“, jednostavno nije dolazilo u obzir.
 
@@ -44,7 +41,7 @@ Slušajući **House Of Cards** od Radioheada, stavljanje te pjesme u ladicu „l
 > Get swept under  
 >
 > Denial, Denial  
-> 
+>
 > Denial, Denial  
 >
 > Your ears should be burning  
