@@ -11,7 +11,7 @@ tags: [poetry, review, essay]
 
 Slušajući **House Of Cards** od Radioheada, stavljanje te pjesme u ladicu "ljubavne pjesme" s dodatkom "tužne", jednostavno nije dolazilo u obzir.
 
-> I don’t wanna be your friend  
+> I don't wanna be your friend  
 > I just wanna be your lover  
 >
 > No matter how it ends  
@@ -57,7 +57,7 @@ Ali ta "normalnost" nekako ne pristaje ovoj pjesmi.
 Ako se složimo da umjetnost ne nastaje stvaranjem samog djela, već recepcijom tog djela kod konzumenata, onda si uzimam za pravo reći da je ova pjesma za mene umjetničko djelo. Zašto? Upravo zbog njegove recepcije u mojoj nutrini.
 
 Da bi pjesmu interpretirali na način na koji sam je ja doživio, dovoljno je napraviti nekoliko zamjena.  
-Ukoliko sintagmu **"House Of Cards"** ne shvatimo kao narušenu ljubavnu vezu, već kao **trenutno društveno uređenje**, već postaje jasnije u kojem je smjeru moja interpretacija krenula. Kako bi zadovoljstvo bilo potpuno, potrebno je naratora staviti u ulogu **budućeg – novog društvenog uređenja**.
+Ukoliko sintagmu **"House Of Cards"** ne shvatimo kao narušenu ljubavnu vezu, već kao **trenutno društveno uređenje**, već postaje jasnije u kojem je smjeru moja interpretacija krenula. Kako bi zadovoljstvo bilo potpuno, potrebno je naratora staviti u ulogu **budućeg - novog društvenog uređenja**.
 
 S tim rekonfiguracijama možemo krenuti u interpretaciju.
 
