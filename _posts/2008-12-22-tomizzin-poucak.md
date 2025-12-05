@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomizzin poucak"
+title: "Tomizzin poučak"
 description: ""
 category: 
 tags: [esej, kritika, knjizevnost]
