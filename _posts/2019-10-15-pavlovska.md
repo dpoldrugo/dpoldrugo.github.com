@@ -17,4 +17,4 @@ Oluja u nama.
 Šuma ima bezbroj puteljaka.  
 Kojim putem krenuti?!  
 
-<img src="/assets/images/pavlovska.jpg" alt="Pavlovska" style="width:50%; margin-left:10px; margin-right:auto; display:block;" />
+<img src="/assets/images/pavlovska.jpg" alt="Pavlovska" style="width:50%;" />

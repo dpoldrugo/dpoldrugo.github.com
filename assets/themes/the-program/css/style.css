@@ -749,8 +749,8 @@ pre {
 }
 .unit-article img {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0;
+  margin-right: 0;
 }
 .unit-article img.left {
   margin-right: 16px;

@@ -29,4 +29,4 @@ Da je drukčije
 tunel ne bi bio tunel  
 već kanalizacijska cijev  
 
-<img src="/assets/images/Prekooceanska.jpg" alt="Prekooceanska" style="width:50%; margin-left:10px; margin-right:auto; display:block;" />
+<img src="/assets/images/Prekooceanska.jpg" alt="Prekooceanska" style="width:50%;" />

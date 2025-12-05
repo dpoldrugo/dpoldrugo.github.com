@@ -19,4 +19,4 @@ Proljeće. Stiže proljeće.
 To mora da je ljubav.  
 Ljubav koja se budi.  
 
-<img src="/assets/images/ljubav-u-rusiji.jpg" alt="Ljubav u Rusiji" style="width:50%; margin-left:10px; margin-right:auto; display:block;" />
+<img src="/assets/images/ljubav-u-rusiji.jpg" alt="Ljubav u Rusiji" style="width:50%;" />
