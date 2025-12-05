@@ -3,7 +3,7 @@ layout: post
 title: "Dimensioning Kafka consumers"
 description: ""
 category: 
-tags: [kafka,bigdata]
+tags: [kafka, bigdata, software engineering]
 ---
 {% include JB/setup %}
 One of the questions that comes up when you start preparing to use [Apache Kafka](https://kafka.apache.org/) is - how fast must my Kafka consumer be - to not lose data?
