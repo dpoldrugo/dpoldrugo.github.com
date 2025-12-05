@@ -3,7 +3,7 @@ layout: post
 title: "FISKALIZACIJA 2.0: Što stvarno znači za tebe i za Hrvatsku"
 description: "Jednostavna analiza utjecaja Fiskalizacije 2.0 na hrvatsku ekonomiju"
 category: 
-tags: [economy,AI]
+tags: [ekonomija,AI]
 ---
 {% include JB/setup %}
 
