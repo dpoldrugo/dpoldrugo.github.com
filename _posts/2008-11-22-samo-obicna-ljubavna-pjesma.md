@@ -7,7 +7,7 @@ tags: [poetry, review, essay]
 ---
 {% include JB/setup %}
 
-![House of Cards - kula od karata](https://blog.dnevnik.hr/blogovi/slike/house-of-cards.jpg)
+![House of Cards - kula od karata](images/house-of-cards.png)
 *(slika preuzeta s izvorne stranice posta, 2008.)*
 
 # Samo obična ljubavna pjesma?!
