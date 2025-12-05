@@ -47,12 +47,12 @@ Jednostavna analiza utjecaja Fiskalizacije 2.0 na hrvatsku ekonomiju - napisao s
 - Bolja borba protiv sive ekonomije - Porezna vidi sve u realnom vremenu  
 - Lakše poslovanje s inozemstvom - PEPPOL je europski standard  
 - Dugoročna ušteda na pošti, omotnicama i papiru (0,50-1 € po računu)
-- informacijski posrednici nisu obavezni, moguće je ih je zaobići, ali je to tehnički složeno za većinu tvrtki
+- Informacijski posrednici nisu obavezni, moguće je ih je zaobići, ali je to tehnički složeno za većinu tvrtki
 
 ## 3. Negativne strane Fiskalizacije 2.0 (one koje se ne spominju glasno)
 
 - Plaćeni informacijski posrednici - **140 milijuna € godišnje** ide privatnim firmama
-- informacijski posrednici nisu obavezni, moguće je ih je zaobići, ali je to tehnički složeno za većinu tvrtki
+- Informacijski posrednici nisu obavezni, moguće je ih je zaobići, ali je to tehnički složeno za većinu tvrtki
   - za 90% tvrtki to bi proizvelo veće troškove nego plaćanje informacijskog posrednika
 - Dodatni porez na male - najviše plaćaju OPG-ovi, obrti, frizeri i iznajmljivači
 - Informacijski posrednici su potencijalni izvor korupcije i reketa
