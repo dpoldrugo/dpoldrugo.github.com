@@ -3,7 +3,7 @@ layout: post
 title: "Prekooceanska"
 description: ""
 category: 
-tags: []
+tags: [poezija]
 ---
 {% include JB/setup %}
 
@@ -29,4 +29,4 @@ tags: []
 > tunel ne bi bio tunel  
 > već kanalizacijska cijev  
 
-![Prekooceanska](/assets/images/Prekooceanska.jpg)
+<img src="/assets/images/Prekooceanska.jpg" alt="Prekooceanska" style="width:50%; margin-left:10px; margin-right:auto; display:block;" />
