@@ -9,22 +9,35 @@ tags: [economy,AI]
 
 Jednostavna analiza utjecaja Fiskalizacije 2.0 na hrvatsku ekonomiju - napisao sam je uz pomoć umjetne inteligencije kao običan građanin, IT stručnjak sa preko 18 godina profesionalnog iskustva i od nedavno - su-osnivač startup tvrtke.
 
+## Sadržaj
+
+1. [Zaključci - prvo ono najvažnije](#1-zaključci---prvo-ono-najvažnije)
+2. [Pozitivne strane Fiskalizacije 2.0 (da, one su velike)](#2-pozitivne-strane-fiskalizacije-20-da-one-su-velike)
+3. [Negativne strane Fiskalizacije 2.0 (one koje se ne spominju glasno)](#3-negativne-strane-fiskalizacije-20-one-koje-se-ne-spominju-glasno)
+4. [Kako sam došao do brojki (korak po korak)](#4-kako-sam-došao-do-brojki-korak-po-korak)
+5. [Zašto je ipak izabran model s plaćenim posrednicima?](#5-zašto-je-ipak-izabran-model-s-plaćenim-posrednicima)
+6. [Moj konačni stav - nakon što sam sve stavio na vagu](#6-moj-konačni-stav---nakon-što-sam-sve-stavio-na-vagu)
+7. [Što dalje?](#7-što-dalje)
+8. [Prilog 1. - AI promptovi korišteni za ovu analizu](#prilog-1---ai-promptovi-korišteni-za-ovu-analizu)
+
 ## 1. Zaključci - prvo ono najvažnije
 
-1. **Ako ostanu plaćeni informacijski posrednici (trenutni model):**
-   - svako hrvatsko kućanstvo platit će 2026. i 2027. **500-600 € više**
-   - mali OPG, frizer, iznajmljivač, pekara i obrtnici dodatno će platiti **200-800 € godišnje**
-   - ukupni račun za cijelo gospodarstvo: **140 milijuna € svake godine**
-   - cijene kruha, ulja, meda, frizera, popravaka i apartmana porast će **3-10 %**
+### 1. Ako ostanu plaćeni informacijski posrednici (trenutni model)
 
-2. **Ako se sve prebaci na centralnu platformu Porezne uprave:**
-   - kućanstvo bi platilo **manje od 50 € godišnje**
-   - mali poduzetnik/OPG bi uštedio **200-700 € godišnje**
-   - ukupni trošak za državu (proračun) bio bi samo **10-15 milijuna € godišnje**
+- svako hrvatsko kućanstvo platit će 2026. i 2027. **500-600 € više**
+- mali OPG, frizer, iznajmljivač, pekara i obrtnici dodatno će platiti **200-800 € godišnje**
+- ukupni račun za cijelo gospodarstvo: **140 milijuna € svake godine**
+- cijene kruha, ulja, meda, frizera, popravaka i apartmana porast će **3-10 %**
 
-3. Strani turisti će u trenutnom modelu ostaviti **50-60 milijuna € više**, ali to ne ugrožava konkurentnost hrvatskog turizma.
+### 2. **Ako se sve prebaci na centralnu platformu Porezne uprave:**
 
-4. **Zaključak:** za 95 % nas **centralizirani sustav bez informacijskih posrednika je daleko bolji i pravedniji**.
+- kućanstvo bi platilo **manje od 50 € godišnje**
+- mali poduzetnik/OPG bi uštedio **200-700 € godišnje**
+- ukupni trošak za državu (proračun) bio bi samo **10-15 milijuna € godišnje**
+
+### 3. Strani turisti će u trenutnom modelu ostaviti **50-60 milijuna € više**, ali to ne ugrožava konkurentnost hrvatskog turizma
+
+### 4. **Zaključak:** za 95 % nas **centralizirani sustav bez informacijskih posrednika je daleko bolji i pravedniji**
 
 ## 2. Pozitivne strane Fiskalizacije 2.0 (da, one su velike)
 
@@ -34,10 +47,13 @@ Jednostavna analiza utjecaja Fiskalizacije 2.0 na hrvatsku ekonomiju - napisao s
 - Bolja borba protiv sive ekonomije - Porezna vidi sve u realnom vremenu  
 - Lakše poslovanje s inozemstvom - PEPPOL je europski standard  
 - Dugoročna ušteda na pošti, omotnicama i papiru (0,50-1 € po računu)
+- informacijski posrednici nisu obavezni, moguće je ih je zaobići, ali je to tehnički složeno za većinu tvrtki
 
 ## 3. Negativne strane Fiskalizacije 2.0 (one koje se ne spominju glasno)
 
 - Plaćeni informacijski posrednici - **140 milijuna € godišnje** ide privatnim firmama
+- informacijski posrednici nisu obavezni, moguće je ih je zaobići, ali je to tehnički složeno za većinu tvrtki
+  - za 90% tvrtki to bi proizvelo veće troškove nego plaćanje informacijskog posrednika
 - Dodatni porez na male - najviše plaćaju OPG-ovi, obrti, frizeri i iznajmljivači
 - Informacijski posrednici su potencijalni izvor korupcije i reketa
   - Potencijalni su preprodavači vaših/naših povjerljivih informacija koje se nalaze na računima. To su podaci koji nikako ne smiju biti dostupni nekome kome javni interes nije na prvom mjestu. A posrednici su samo obične firme čiji je primarni interes profit
@@ -169,12 +185,12 @@ Sve ostalo je priča za one koji na ovome zarađuju, i onima kojima su im to omo
 
 ## 7. Što dalje?
 
-Nažalost nisam imao vremena se posvetiti ovoj temi prije (kao i većina vas), ali koliko sam se informirao, većina primjedbi koje su došle na eSavjetovanje, ionako nisu uvažene.
-Ali to ne znači da ne možemo i sada izvršiti pritisak, da se odgodi primjena Zakona o fiskalizaciji, a onda i pokrenemo izmjene tog Zakona, koje bi išle u smjeru općeg, a ne partikularnog interesa.
+Nažalost nisam imao vremena se posvetiti ovoj temi prije (kao i većina vas), ali koliko sam se informirao, većina primjedbi koje su došle na eSavjetovanje, ionako **nisu uvažene**.
+Ali to ne znači da ne možemo i sada **izvršiti pritisak**, da se **odgodi primjena Zakona o fiskalizaciji**, a onda i **pokrenemo izmjene tog Zakona**, koje bi išle u smjeru **općeg, a ne partikularnog interesa**.
 
-Kako nisam ekonomist i pravni stručnjak, pozivam da ekonomiste, pravne i poslovne stručnjake, IT stručnjake, medije i sve ostale da pročešljaju teze koje sam ovdje iznio. Ukoliko se nakon "češljanja" pokaže da većina ovih teza stoji, biti će potrebno izvršiti organizirani pritisak - koji nam je svima u interesu, kako bi spriječili loše, prije svega, ekonomske posljedice ovog Zakona. Iskreno se nadam, da će se pronaći logičke i računske greške, i da utjecaj ovog Zakona nije ovakav kakav se iz ove analize može izvesti.
+Kako nisam ekonomist i pravni stručnjak, **pozivam ekonomiste, pravne i poslovne stručnjake, IT stručnjake, medije** i sve ostale, da **pročešljaju teze** koje sam ovdje iznio uz pomoć AI-a. Ukoliko se nakon "češljanja" pokaže da većina ovih teza stoji, biti će potrebno izvršiti organizirani pritisak - koji nam je svima u interesu, kako bi **spriječili loše**, prije svega, **ekonomske posljedice** ovog Zakona. Iskreno se nadam, da će se pronaći logičke i računske greške, i da utjecaj ovog Zakona nije ovakav kakav se iz ove analize može izvesti.
 
-U razgovoru sa jedinim IT stručnjakom koji radi na implementaciji F2.0, kojeg ovdje neću imenovati, saznao sam da je javna tajna da iza nekih informacijskih posrednika posredno stoje neki političari, pozivam USKOK, DORH, istraživačke novinare i ostale nadležne institucije da pročešljaju taj navod. Ime IT stručnjaka ovdje nije bitno, jer kako kaže, da se o tome na veliko priča, tako da on nije jedini mogući izvor o kojim spregu političara i informacijskih posrednika se radi.
+U razgovoru sa jedinim IT stručnjakom koji radi na implementaciji F2.0, kojeg ovdje neću imenovati, saznao sam da je javna tajna da **iza nekih informacijskih posrednika posredno stoje neki političari**, pozivam **USKOK, DORH, istraživačke novinare** i ostale nadležne institucije da pročešljaju taj navod. Ime IT stručnjaka ovdje nije bitno, jer kako kaže, da se o tome na veliko priča, tako da on nije jedini mogući izvor o kojim spregu političara i informacijskih posrednika se radi.
 
 ## Prilog 1. - AI promptovi korišteni za ovu analizu
 
