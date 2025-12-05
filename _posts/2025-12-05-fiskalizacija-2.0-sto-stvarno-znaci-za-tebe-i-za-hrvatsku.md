@@ -3,10 +3,9 @@ layout: post
 title: "FISKALIZACIJA 2.0: Što stvarno znači za tebe i za Hrvatsku"
 description: "Jednostavna analiza utjecaja Fiskalizacije 2.0 na hrvatsku ekonomiju"
 category: 
-tags: [kafka,bigdata]
+tags: [economy,AI]
 ---
 {% include JB/setup %}
-# FISKALIZACIJA 2.0: Što stvarno znači za tebe i za Hrvatsku
 
 Jednostavna analiza utjecaja Fiskalizacije 2.0 na hrvatsku ekonomiju - napisao sam je uz pomoć umjetne inteligencije kao običan građanin, IT stručnjak sa preko 18 godina profesionalnog iskustva i od nedavno - su-osnivač startup tvrtke.
 
@@ -183,4 +182,4 @@ Korišten je Grok model 4.1, evo i linka na AI konverzaciju:
 <https://bit.ly/F20-ai-analiza>
 
 **QR kod**
-![QR kod za link na AI konverzaciju](./images/F20-ai-analiza.svg)
+![QR kod za link na AI konverzaciju](/assets/images/F20-ai-analiza.svg)
