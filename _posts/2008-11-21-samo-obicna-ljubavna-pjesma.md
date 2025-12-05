@@ -3,7 +3,7 @@ layout: post
 title: "Samo obična ljubavna pjesma?!"
 description: ""
 category: 
-tags: [poezija, kritika, esej]
+tags: [kritika, esej]
 ---
 {% include JB/setup %}
 
