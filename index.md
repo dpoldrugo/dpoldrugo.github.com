@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About me
-tagline: about me
+title: Home
+header: Latest Posts
 ---
 {% include JB/setup %}
 
-Humble engineer with interest in disruptive business, software design, big data, cinema, art
+<ul class="posts">
+  {% for post in site.posts limit:5 %}
+    <li>
+      <span>{{ post.date | date_to_string }}</span> &raquo;
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-Currently co-founder of an IT startup.
-
-Enjoys: Filmmaking. Art. Volleyball. Motorcycle traveler.
-
-Latest post: [Dimensioning Kafka consumers](https://dpoldrugo.github.io/2016/12/29/dimensioning-kafka-consumers)
-
+<p>
+  <a href="/posts.html">View all posts...</a>
+</p>

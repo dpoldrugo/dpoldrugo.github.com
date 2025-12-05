@@ -401,7 +401,7 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: consolas, monaco, monospace;
+  font-family: "Fira Code", "Roboto Mono", monospace;
   font-size: 1em;
   line-height: 1.625em;
 }
@@ -418,7 +418,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: UbuntuMono-B, consolas, monaco, monospace;
+  font-family: "Fira Code", "Roboto Mono", monospace;
 }
 h1,
 .h1 {
@@ -501,6 +501,10 @@ No styleguide reference.
 @green:     #859900;
 
 */
+/* Fira Code Font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Roboto+Mono&display=swap');
+
+
 /* COMFORTAA Font
  * http://www.fontsquirrel.com/fonts/Comfortaa
 */
@@ -590,7 +594,7 @@ pre {
 /* HEADER
 --------------------------------------------------------------------------------- */
 .the-header .logo {
-  font-family: UbuntuMono-B, consolas, monaco, monospace;
+  font-family: "Fira Code", "Roboto Mono", monospace;
   margin: 0;
 }
 .the-header .logo a:visited {
@@ -728,7 +732,7 @@ pre {
 .unit-article img {
   display: block;
   margin-left: auto;
-  margin-left: auto;
+  margin-right: auto;
 }
 .unit-article img.left {
   margin-right: 16px;
@@ -791,6 +795,17 @@ pre {
 .unit-article .unit-foot .gotop {
   margin-bottom: 0;
 }
+.unit-article	.meta {
+			margin-top: 2em;
+			padding-top: 1em;
+			padding-left: 1em;
+			padding-right: 1em;
+			border-top: 1px solid #eee;
+			background-color: #f8f8f8;
+  }
+  .unit-article .list-category {
+    visibility: hidden;
+  }
 /* post & page */
 .layout-page .tag_box {
   background: url('/assets/themes/the-program/skin/100-90-5-monochrome.png') repeat 0 0 #999999;
