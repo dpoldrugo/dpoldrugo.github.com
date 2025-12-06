@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Humble engineer with interest in disruptive business, software design, big data, cinema, art
+Humble human with interest in disruptive business, software design, big data, cinema, art
 
 Currently co-founder of an IT startup.
 
