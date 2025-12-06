@@ -19,8 +19,8 @@ Djevojčica šapatom nadglasa
 cijeli univerzum u nama,  
 izgovorivši:  
 
-"Svi mi stanemo svakome od nas u  
-zagrljaj"  
+**"Svi mi stanemo svakome od nas u  
+zagrljaj"**  
 
 Franjo pruža ruku  
 Slobo odbija ruku  
