@@ -3,7 +3,7 @@ layout: post
 title: "Refleksije Gaze u filmu \"Waltz with Bashir\" (2008)"
 description: ""
 category: 
-tags: []
+tags: [esej, film]
 ---
 {% include JB/setup %}
 <img align="right" src="/assets/images/waltz-with-bashir_poster.jpg" alt="djevojcica" style="width:30%;" />
