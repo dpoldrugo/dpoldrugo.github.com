@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 <img align="right" src="/assets/images/waltz-with-bashir_poster.jpg" alt="djevojcica" style="width:30%;" />
-U jeku trenutnog masakra koji traje u Gazi i Hrvatskog glasanja protiv rezolucije „Zaštita civila i pridržavanje pravnih te humanitarnih obveza“ koju je predložio Jordan, a kojom se traži prekid napada Izraela na Pojas Gaze radi dopreme humanitarne pomoći - želim podsjetiti na film ["Waltz with Bashir"](https://www.imdb.com/title/tt1185616/).
+U jeku trenutnog masakra koji traje u Gazi i [Hrvatskog glasanja protiv](https://www.index.hr/vijesti/clanak/rezolucija-una-je-samo-politika-bez-stvarne-tezine-koji-je-plenkovicev-cilj/2507938.aspx) rezolucije „Zaštita civila i pridržavanje pravnih te humanitarnih obveza“ koju je predložio Jordan, a kojom se traži prekid napada Izraela na Pojas Gaze radi dopreme humanitarne pomoći - želim podsjetiti na film ["Waltz with Bashir"](https://www.imdb.com/title/tt1185616/).
 
 Hrvatska je, uz 13 drugih država, bila protiv rezolucije. Četrdeset pet država se suzdržalo i 120 je bilo za jordanski prijedlog. Ovo već govori dovoljno za sebe na koju stranu povijesti se Hrvatska svrstala. Na stranu na kojoj ja ne želim biti.
 
